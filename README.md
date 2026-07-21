@@ -7,7 +7,7 @@
 
 An automated, end-to-end career optimization engine built with the **Google Agent Development Kit (ADK)** and powered by **Gemini Flash**. 
 
-Traditional multi-agent loops often suffer from "orchestrator ping-pong" and infinite validation loops—burning API tokens and causing cache misses. **CareerCoach** solves this by using a deterministic **Sequential Pipeline** that parses job descriptions, injects quantifiable metrics into resume bullets, and drafts customized cover letters in **exactly 4 API calls**.
+Traditional multi-agent loops often suffer from "orchestrator ping-pong" and infinite validation loops, burning API tokens and causing cache misses. **CareerCoach** solves this by using a deterministic **Sequential Pipeline** that parses job descriptions, injects quantifiable metrics into resume bullets, and drafts customized cover letters in **exactly 4 API calls**.
 
 ---
 
