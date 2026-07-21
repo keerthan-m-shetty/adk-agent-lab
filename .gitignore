@@ -1,0 +1,23 @@
+# Environment variables & secrets (CRITICAL)
+.env
+*.env
+*.env.*
+!.env.example
+
+# Python virtual environments & build artifacts
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Google ADK & local execution logs
+*.log
+.adk/
+
+# OS generated files
+.DS_Store
+Thumbs.db
