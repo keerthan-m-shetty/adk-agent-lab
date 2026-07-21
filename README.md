@@ -102,6 +102,6 @@ This repository integrates directly with the Google ADK local web server to prov
 
 When the pipeline completes its 4-step execution, it outputs a clean, markdown-ready application suite organized into three distinct sections:
 
-* `## 📊 Job Analysis & ATS Keywords`: Target role breakdown, technology stack mapping, and critical scanning keywords.
-* `## 📄 Tailored Resume Bullets (ATS Validated)`: Action-verb-led experience bullet points loaded with quantifiable metrics (e.g., *reduced latency by 32%, processed 100k+ daily records, boosted accuracy by 38%*).
-* `## ✉️ Customized Cover Letter`: A persuasive, highly tailored 3-paragraph narrative linking your exact technical stack to the company's core initiatives.
+* ` 📊 Job Analysis & ATS Keywords`: Target role breakdown, technology stack mapping, and critical scanning keywords.
+* ` 📄 Tailored Resume Bullets (ATS Validated)`: Action-verb-led experience bullet points loaded with quantifiable metrics (e.g., *reduced latency by 32%, processed 100k+ daily records, boosted accuracy by 38%*).
+* ` ✉️ Customized Cover Letter`: A persuasive, highly tailored 3-paragraph narrative linking your exact technical stack to the company's core initiatives.
