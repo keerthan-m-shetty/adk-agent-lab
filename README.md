@@ -108,7 +108,7 @@ This repository integrates directly with the Google ADK local web server to prov
 ## 📋 Real-World Execution Example
 
 ### User Input Prompt
-> **User:** *"Please help me prepare an application package for a Machine Learning Engineer role. Here is a link to the job posting: `https://join.com/companies/doopic/16438915-machine-learning-engineer-m-w-d?pid=...`*
+> **User:** *"Please help me prepare an application package for a Machine Learning Engineer role. Here is a link to the job posting: `link to job posting`*
 > 
 > *My background: ML Engineer specializing in LLM pipelines, RAG architectures, model fine-tuning with PEFT/LoRA, Next.js, and AWS."*
 
